@@ -47,5 +47,3 @@ The project successfully demonstrates how machine learning can be used to analyz
 
 
 
-[Paste Your GitHub Repository Link Here]
-
