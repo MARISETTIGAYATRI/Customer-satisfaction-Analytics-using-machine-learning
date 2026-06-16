@@ -1,10 +1,10 @@
-# Customer Satisfaction Analytics Using Machine Learning
+Customer Satisfaction Analytics Using Machine Learning
 
-## Project Title
+ Project Title
 
 Customer Satisfaction Analytics Using Machine Learning
 
-## Technologies Used
+Technologies Used
 
 * Python
 * Pandas
@@ -14,11 +14,10 @@ Customer Satisfaction Analytics Using Machine Learning
 * Seaborn
 * Jupyter Notebook
 
-## Your Role
+ Your Role
 
 **Team Lead & Developer**
-
-### Responsibilities
+Responsibilities
 
 * Led project planning and execution.
 * Designed the machine learning workflow.
@@ -27,13 +26,15 @@ Customer Satisfaction Analytics Using Machine Learning
 * Evaluated model performance and generated reports.
 * Coordinated project documentation and final presentation.
 
-## Project Description
+ Project Description
 
 Customer Satisfaction Analytics Using Machine Learning is a data-driven project that analyzes customer feedback and behavioral data to predict customer satisfaction levels. The system uses machine learning algorithms to identify patterns, detect dissatisfaction risks, and provide insights that help organizations improve customer experience and retention.
 
 The project includes data collection, cleaning, visualization, model training, and performance evaluation. Various machine learning techniques are applied to classify customer satisfaction and generate actionable business insights.
+Github Link:
+https://github.com/MARISETTIGAYATRI/Customer-satisfaction-Analytics-using-machine-learning
 
-## Key Features
+Key Features
 
 * Customer feedback analysis
 * Data visualization and reporting
@@ -41,9 +42,6 @@ The project includes data collection, cleaning, visualization, model training, a
 * Performance evaluation using accuracy metrics
 * Business insight generation for decision-making
 
-## Outcome
+Outcome
 
 The project successfully demonstrates how machine learning can be used to analyze customer satisfaction trends and support data-driven business decisions. The developed model helps identify factors influencing customer satisfaction and improves overall customer experience strategies.
-
-
-
